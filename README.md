@@ -1,2 +1,2 @@
 # MovieLensBDCW
-Building a recommendation system with Alternating Least Squares and the MovieLens 20m dataset
+Building a recommendation system in Spark with Alternating Least Squares and the MovieLens 20m dataset
